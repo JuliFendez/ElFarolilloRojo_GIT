@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+sitemap: https://elfarolillorojo.es/post-sitemap.xml
+sitemap: https://elfarolillorojo.es/page-sitemap.xml
+sitemap: https://elfarolillorojo.es/category-sitemap.xml
+sitemap: https://elfarolillorojo.es/post_tag-sitemap.xml
+sitemap: https://elfarolillorojo.es/author-sitemap.xml
